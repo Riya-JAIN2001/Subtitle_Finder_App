@@ -1,9 +1,11 @@
 {
-  "name": "subtitle__Riya",
+  "name": "@Riya-JAIN2001/Subtitle_Finder_App",
   "version": "1.0.0",
   "main": "index.js",
   "bin": "index.js",
-  "scripts": {},
+  "scripts": {
+    "
+  },
   "license": "ISC",
   "dependencies": {
     "addic7ed-api": "^2.0.1",
