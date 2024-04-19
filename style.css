@@ -1,0 +1,23 @@
+body{
+   /* background-image: 'thumbnail/Bollywoodback.webp';  */
+   background: linear-gradient(#e66465, #9198e5);
+   height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.carousel-item img{
+    margin-left:25vw;
+    height: 400px;
+}
+.carousel-item h5{
+    color: rgb(196, 19, 143);
+}
+
+.col-sm-3{
+    margin-left:-5vw;
+    padding-left:10vw;
+}
+.card-title{
+    color: black;
+}

@@ -1,0 +1,36 @@
+
+
+body{
+    
+background-image: url("thumbnail/bolyim.jpg");
+/* background-repeat: no-repeat; */
+height:100%
+
+}
+.find{
+  
+  
+  position: absolute;
+  top: 50%;
+  left: 43%;
+  margin: -25px 0 0 -25px;
+}
+.add{
+    width: 20vw;
+    height: 5vh;
+    border-radius: 10px;
+}
+.res{
+  background: wheat;
+  
+            position: absolute;
+            bottom: 0px;
+            width: 100vw;
+        
+}
+.im img{
+  width:52vw;
+  height: 67vh;
+  margin-left: 25vw;
+}
+
